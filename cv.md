@@ -1,17 +1,17 @@
-#**RS School CV**
-
 ##**Name**
 
 Kirill Kuteko 
 
 ##**Contacts**
 
-+**Telegram:** @kir_krk
-+**Discord:** Does not work with RUS mobile number
+  +**Telegram:** @kir_krk
+
+  +**Discord:** Does not work with RUS mobile number
 
 ##**Some information about**
 
 An automation engineer
+
 Self Learning for new skills
 
 ##**Skills**
